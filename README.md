@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am Swarup Banik. <br>I studied at Jadavpur University in electronics and Tele-Communication Engineering.<br>I am currently working in mjunction as a software developer where I develop robust scalable systems.<br>I have worked with technologies like C#/.NET, C++, Nodejs, ReactJs. <br>I have solved 450 leetcode questions and I strive in Data structures and Algorithms.
+I am Swarup Banik, a software developer at mjunction where I design and develop robust, scalable, and high-performance systems that support enterprise-grade applications.. <br>I studied at Jadavpur University in electronics and Tele-Communication Engineering.<br>I have worked with technologies like ReactJs, C#/.NET, Nodejs, Blockchain and Defi. <br>
+✅ Solved 450+ LeetCode problems, demonstrating strong expertise in Data Structures & Algorithms.
+🏗️ Contributed to building scalable enterprise systems handling real-world workloads.
+⚡ Optimized database queries and backend logic, improving system performance and response times.
+🔄 Led or contributed to database migration and modernization efforts (e.g., MSSQL → PostgreSQL).
+🧠 Strong problem-solving mindset with a focus on writing efficient and maintainable code.
+🚀 Continuously learning and exploring AI-powered search, distributed systems, and high-performance computing.
 
 
 ## 🌐 Socials:
