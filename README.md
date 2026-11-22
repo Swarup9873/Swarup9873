@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am Swarup Banik, a software developer at mjunction where I design and develop robust, scalable, and high-performance systems that support enterprise-grade applications.. 
 <br>I studied at Jadavpur University in electronics and Tele-Communication Engineering.
-<br>✅ Solved 500+ LeetCode problems, demonstrating strong expertise in Data Structures & Algorithms.
+<br>✅ Solved 600+ LeetCode problems, demonstrating strong expertise in Data Structures & Algorithms.
 <br>🏗️ Contributed to building scalable enterprise systems handling real-world workloads.
 <br>⚡ Optimized database queries and backend logic, improving system performance and response times.
 <br>🔄 Contributed to database migration and modernization efforts.
